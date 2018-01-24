@@ -10,5 +10,6 @@ En este taller deberá consignar los pasos para:
 ## Pasos
 1. Descargar ISO de Centos7 version 17.08 de la pagina oficial 
 2. validar el checksum del archivo ISO
+3. 
 
 Añadir comentario
